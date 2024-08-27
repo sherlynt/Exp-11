@@ -43,7 +43,7 @@ int main(){
 
 O/P:
 
-![image](https://github.com/user-attachments/assets/ef7136d1-39a5-4a52-aa18-cbb2dcda6159)
+
 
 2.
 ```
@@ -68,7 +68,7 @@ int main(){
 
 O/P:
 
-![image](https://github.com/user-attachments/assets/e74d4f0f-914c-48e0-b049-7852ac10590a)
+
 
 3.
 ```
@@ -96,7 +96,6 @@ int main()
 
 O/P:
 
-![image](https://github.com/user-attachments/assets/9fcc38ce-dbc6-4c1a-9915-2a48c34c1a42)
 
 4.
 ```
@@ -127,7 +126,7 @@ int main()
 
 O/P:
 
-![image](https://github.com/user-attachments/assets/abd1c7f9-90d4-4760-92e0-e61606347653)
+
 
 5.
 ```
@@ -170,7 +169,7 @@ int main() {
 
 O/P:
 
-![image](https://github.com/user-attachments/assets/288a79cb-ab5e-4413-9f94-706a2e6cebd8)
+
 
 # Conclusion
 These C++ code examples show how the program improves step by step to calculate the volume of a cube or box.
